@@ -1,1 +1,1 @@
-# weather-information-on-terminal
+# weather-information-on-terminal using web-scraping
